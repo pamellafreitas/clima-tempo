@@ -6,7 +6,7 @@
 }
 
 body {
-    background: url('img/nuvens-de-estilo-anime.jpg') center center/cover no-repeat;;
+    background: url('img/nuvens-de-estilo-anime.jpg') center center/cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background-color: rgba(18, 4, 172, 0.609);;
+    background-color: rgba(18, 4, 172, 0.609);
     box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
     padding: 2rem;
     color: #fdfdfd;
