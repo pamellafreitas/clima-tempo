@@ -1,4 +1,4 @@
-# README - Projeto Clima Tempo
+# Projeto Clima Tempo
 
 Este projeto foi desenvolvido como parte do curso "Hora de Codar". É uma aplicação web simples que permite aos usuários consultar o clima atual de uma determinada cidade. Ele utiliza a API do OpenWeatherMap para obter os dados meteorológicos e exibi-los na interface do usuário.
 
